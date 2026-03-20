@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Alpharex001/Troubleshooting_network/blob/main/README.md)
+  - [Trouble shooting a Network](https://github.com/Alpharex001/Troubleshooting_network/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/Alpharex001/Troubleshooting_network/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
+  - [simple home network creation](https://github.com/Alpharex001/Troubleshooting_network/blob/main/README.md) <b><i>(Potentially NSFW)</b></i>
 
 <h2>👨‍💻 Certification:</h2>
 
